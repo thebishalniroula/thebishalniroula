@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi. I am a full stack developer from Nepal specializing in Typescript, React.js, Next.js, Tailwindcss, Node.js, Express.js, tRPC, MongoDB, MySQL.<br>
+Hi. I am a frontend focused full stack developer from Nepal specializing in Typescript, React.js, Next.js, Tailwindcss, Node.js.<br>
 
 
 ## 🌐 Socials:
